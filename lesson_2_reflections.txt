@@ -12,3 +12,9 @@ A - It help to get the connections between commits by branch.
 
 Q - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A - The result is a nuw history of commit, that includes all the commit of both the branch merged. The diagram rapresents the brances converged in one commit, that one corresponding to the merge action.
+
+Q - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A - When you need to test some experimentations, or check out some new features, without modify the original project (master branch).
+
+Q - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A - When there are no conflict git can operate well and autonmatically.
