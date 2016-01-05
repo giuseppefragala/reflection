@@ -3,3 +3,5 @@ A - Git creates a hidden directory in which are stored all Git need to work. I n
 
 Q - How is the staging area different from the working directory and the repository? What value do you think it offers?
 A - The staging area contains only the files added in it. It is a good way to prepare the file involved with the next commit.
+
+Q - 
