@@ -6,3 +6,6 @@ A - The staging area contains only the files added in it. It is a good way to pr
 
 Q - How can you use the staging area to make sure you have one commit per logical change?
 A - Matching the changes in the Working Area end the Staging Area by the "git diff" command (whit no arguments).
+
+Q - How do the diagrams help you visualize the branch structure?
+A - It help to get the connections between commits by branch.
