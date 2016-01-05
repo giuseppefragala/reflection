@@ -9,3 +9,6 @@ A - Matching the changes in the Working Area end the Staging Area by the "git di
 
 Q - How do the diagrams help you visualize the branch structure?
 A - It help to get the connections between commits by branch.
+
+Q - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A - The result is a nuw history of commit, that includes all the commit of both the branch merged. The diagram rapresents the brances converged in one commit, that one corresponding to the merge action.
