@@ -16,3 +16,6 @@ Q - How would you collaborate without using Git or GitHub? What would be easier,
 A - Without using Git or GiHtub I can collaborate by the other media used so far (file sharing, email, telephon call).
 	With few files project it could be easier sharing changes and resolve conflicts generated within them.
 	In general, on project involving many developers, it would be hard to keep track of single developer work, resolve conflict and constructively share their own changes.
+
+Q - When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A - It's more convenient try all experimental or new feature in separate branche. In this way you can avoid to demage master branch in case of too much extreme experimentations.
