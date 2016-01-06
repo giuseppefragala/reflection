@@ -8,3 +8,6 @@ Q - Describe the differences between forks, clones, and branches. When would you
 A - Fork is used in GitHub interface to create a copy of an existing repository of a GitHub user to another Github user.
     Clone gets a copy of a repository, from GitHub to a local Git.
     Branch is  the command given to create a local copy of another local repository.
+
+Q - What is the benefit of having a copy of the last known state of the remote stored locally?
+A - You can check and, possibly, try to resolve conflicts.
