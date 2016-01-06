@@ -11,3 +11,8 @@ A - Fork is used in GitHub interface to create a copy of an existing repository 
 
 Q - What is the benefit of having a copy of the last known state of the remote stored locally?
 A - You can check and, possibly, try to resolve conflicts.
+
+Q - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A - Without using Git or GiHtub I can collaborate by the other media used so far (file sharing, email, telephon call).
+	With few files project it could be easier sharing changes and resolve conflicts generated within them.
+	In general, on project involving many developers, it would be hard to keep track of single developer work, resolve conflict and constructively share their own changes.
