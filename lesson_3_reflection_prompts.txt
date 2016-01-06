@@ -1,0 +1,2 @@
+Q - When would you want to use a remote repository rather than keeping all your work local?
+A - It's useful for developing on different machine then the one you use usally, or in general from different place. Other people can partecipate to your work in this way as well.
